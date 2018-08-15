@@ -1,7 +1,7 @@
 # SingleImageSuperResolution-SISR
 
-Original list from By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us! Email: yapengtian@rochester.edu OR yulun100@gmail.com).
-I've started updating my own on 15 August 2018
+Original list from By Yapeng Tian and Yunlun Zhang (Email: yapengtian@rochester.edu OR yulun100@gmail.com).
+I've started updating my own on 15 August 2018 (Email:hai.maituan@gmail.com)
 
 -------------------------------------
 A list of resources for example-based single image super-resolution, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
