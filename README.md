@@ -1,4 +1,4 @@
-# SingleImageSuperResolution-SISR
+# Single Image Super Resolution-SISR
 
 Original list from By Yapeng Tian and Yunlun Zhang (Email: yapengtian@rochester.edu OR yulun100@gmail.com).
 I've started updating my own on 15 August 2018 (Email:hai.maituan@gmail.com)
